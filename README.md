@@ -1,16 +1,9 @@
-# cloud_notification
+# CALCULATOR APP
 
-A new Flutter project.
+Made By hamza Javaid
+**## OUTPUT**
+![output 1](https://github.com/HamzaaJavaid/Vaseel-Fellowship-Task-3/assets/115164085/1b99271a-af61-4dc1-9546-3a8916c90454)
+![output 2](https://github.com/HamzaaJavaid/Vaseel-Fellowship-Task-3/assets/115164085/b801d9e9-1428-4edf-b720-5a4b1430f197)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+_For contribution  , make separate branch and request a pull request to merged with master branch 
